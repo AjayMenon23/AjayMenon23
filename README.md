@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is Ajay Menon here..
-Learner, Creator n Scholar.. No,strike off the last one :P
+Learner, Creator n Scholar.. 
+No,strike off the last one :P
