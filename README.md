@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is Ajay Menon here..
-Interested in Web development and Machine learning.
+Interested in Web development, Data analytics and Machine learning.
 Self-learner..
